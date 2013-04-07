@@ -1,4 +1,3 @@
-
 KISSY Gallery 工具正在开发过程中，在此介绍 **过渡的gallery组件开发规范和注意事项**：
 
 
@@ -41,14 +40,14 @@ gallery
 add时,
 
 ```
-KISSY.add('gallery/pagination/1.0/pagination', function(S, Template) {
+KISSY.add('gallery/pagination/1.0/offline', function(S, Template) {
 },{requires:["template"]});
 ```
 
 use时, 
 
 ``` 
-KISSY.use('gallery/pagination/1.0/pagination', function(S, P) {
+KISSY.use('gallery/pagination/1.0/offline', function(S, P) {
 });
 ```
 
