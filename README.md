@@ -10,9 +10,9 @@
 ## kissy gallery入住流程
 
 1. 创建目录结构
-1.1 安装yeoman和grunt `npm install yo grunt-cli -g`
-1.2 安装generator-kissy-gallery `npm install generator-kissy-gallery -g`
-1.3 初始化目录 `yo kissy-gallery 1.0`
+  1. 安装yeoman和grunt `npm install yo grunt-cli -g`
+  2. 安装generator-kissy-gallery `npm install generator-kissy-gallery -g`
+  3. 初始化目录 `yo kissy-gallery 1.0`
 
 2. 写代码和demo: http://gallery.kissyui.com/guide
 
